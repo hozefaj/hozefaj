@@ -23,13 +23,10 @@
 - Worked with accessibility, performance, SEO & site-reliability teams to make sure PayPal's website met performance, reliability and availability goals.
 
 ## Education
-### Masters in Computer Science 
-- Illinois Institute of Technology
-- Jan '09 - Dec '10
-
-### Bachelor's in Engineering
-- Mumbai University
-- June '03 - May '07
+| Course      | College | Duration     |
+| :---:        |    :----:   |          :---: |
+| Masters in Computer Science       | Illinois Institute of Technology       | Jan '09 - Dec '10   |
+| Bachelor's in Engineering   | Mumbai University        | June '03 - May '07      |
 
 ## Contact Info
 [LinkedIn](https://www.linkedin.com/in/hozefajodiawalla)<br>
