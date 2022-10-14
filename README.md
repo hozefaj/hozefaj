@@ -1,6 +1,7 @@
 ## Summary
 - Engineering manager with 5+ years experience in managing teams at Meta, Wealthfront, and PayPal
 - Experience building high-performing teams, growing ICs, hiring, and cross-team collaboration in varying environments
+- 5+ years experience in building web applications for product teams working with react, graphQL, typescript, web pack, CSS. Expertise in web performance, accessibility, and browser compatibility.
 
 ## Work History
 ### Engineering Manager, Meta
