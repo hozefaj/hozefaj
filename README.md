@@ -6,9 +6,10 @@
 ## Work History
 ### Engineering Manager, Meta
 - Managing FB Subscriptions team that allows people to monetize through FB. We are responsible for over 50k users earning over $20M monthly through >1.3M subscribers
+- It's a 16-person team consisting of ICs and an engineering manager.
 
 ### Engineering Manager, Wealthfront
-- Engineering manager for Wealthfront's Path(financial modelling) product that calculated users' net worth over time based on transaction data for over >2M linked accounts across 500k users.
+- Engineering manager for Wealthfront's [Path](https://www.wealthfront.com/blog/introducing-path/)(financial modelling) product that calculated users' net worth over time based on transaction data for over >2M linked accounts across 500k users.
 - Also, I managed the fraud & risk team tasked to bring down monthly fraud from $1M to under $20k per month  -  built tooling, monitoring, user controls and alerting to prevent and reduce fraud.
 
 ### Engineering Manager, PayPal
