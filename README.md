@@ -17,7 +17,7 @@
 
 ### Staff Software Engineer, PayPal
 - Led the personalization team that built tooling to enable channel messaging for every PayPal user and complete e2e management of marketing campaigns. This brought about a reduction in time to market for campaigns by over 60%.
-- Developed a portal that allows users to browse and save/redeem offers to their PayPal wallet and saved PayPal $3M per year in external agency costs.
+- Developed the [offers portal](https://www.paypal.com/deals), which allows users to browse and save(or redeem) offers to their PayPal wallet. The effort saved ~$1M in external hosting and agency costs.
 
 ### Senior Software Engineer, PayPal
 - Technical lead for EMEA, CA & Latam regions, scoping technical requirements with design agencies and marketing stakeholders.
