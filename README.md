@@ -32,3 +32,4 @@
 ## Contact Info
 [LinkedIn](https://www.linkedin.com/in/hozefajodiawalla)<br>
 [Twitter](https://twitter.com/hozefaj)
+[Dev.to](https://dev.to/hozefaj) profile.
