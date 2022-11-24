@@ -30,6 +30,6 @@
 | Bachelor's in Engineering   | Mumbai University        | June '03 - May '07      |
 
 ## Contact Info
-[LinkedIn](https://www.linkedin.com/in/hozefajodiawalla)<br>
-[Twitter](https://twitter.com/hozefaj)
-[Dev.to](https://dev.to/hozefaj) profile.
+- [LinkedIn](https://www.linkedin.com/in/hozefajodiawalla)
+- [Twitter](https://twitter.com/hozefaj)
+- [Dev.to](https://dev.to/hozefaj) profile
