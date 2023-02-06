@@ -4,6 +4,9 @@
 - 10+ years experience in building applications for product teams using technologies like HTML, CSS, JS, react, typescript, graphQL etc.
 
 ## Work History
+### Senior Engineering Manager, Maven Clinic
+- Working to improve healthcare for women
+
 ### Engineering Manager, Meta
 - Managing FB Subscriptions team that allows people to monetize through FB. We are responsible for over 50k users earning over $20M monthly through >1.3M subscribers
 - It's a 16-person team consisting of ICs and an engineering manager.
