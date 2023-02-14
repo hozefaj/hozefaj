@@ -5,7 +5,7 @@
 
 ## Work History
 ### Senior Engineering Manager, Maven Clinic
-- Working to improve healthcare for women one family at a time
+- Working to improve healthcare for women one family at a time. Check out www.mavenclinic.com. 
 
 ### Engineering Manager, Meta
 - Managing FB Subscriptions team that allows people to monetize through FB. We are responsible for over 50k users earning over $20M monthly through >1.3M subscribers
