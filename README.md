@@ -1,9 +1,12 @@
 ## Summary
-- 5+ years engineering management experience at Meta, Wealthfront, and PayPal.
-- Experience building high-performing teams, growing ICs, hiring, and cross-team collaboration
-- 10+ years experience in building applications for product teams using technologies like HTML, CSS, JS, react, typescript, graphQL etc.
+Engineering Leader with over 15 years of experience driving high-growth product engineering at Meta, PayPal, and Atlassian. Proven track record of scaling distributed systems and cross-functional teams to support 300M+ users and $50M+ in monthly recurring revenue. Expert in bridging technical architecture with business goals across Fintech, Healthtech, and Creator Economies
 
 ## Work History
+### Senior Engineering Manager, Atlassian
+- Direct a multi-team organization of 18+ engineers across three critical workstreams: Video Editing, AI Workflows, and Screenshots, optimizing resource allocation and engineering velocity within Loom’s Core Product pillar.
+- Spearheaded the successful end-to-end launch of Loom Screenshots, a major strategic expansion (0 to 1) integrated across the Chrome extension and Desktop applications to drive user acquisition and engagement. 
+- Serve as the primary engineering lead for the Editing and Workflows pillar, defining the technical roadmap and long-term vision to enhance the core value proposition of Loom’s asynchronous communication platform.
+
 ### Senior Engineering Manager, Maven Clinic
 - Working to improve healthcare for women one family at a time. Check out www.mavenclinic.com. 
 
@@ -34,5 +37,4 @@
 
 ## Contact Info
 - [LinkedIn](https://www.linkedin.com/in/hozefajodiawalla)
-- [Twitter](https://twitter.com/hozefaj)
-- [Dev.to](https://dev.to/hozefaj) profile
+- [X](https://x.com/hozefaj)
